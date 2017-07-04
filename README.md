@@ -13,7 +13,7 @@ Set of scripts that facilitate molecular dynamics aided screening of the models 
 
 Clone the repository. This will create the mdscripts directory.
 ```
-$ git clone https://jludw@bitbucket.org/jludw/mddesign.git
+$ git clone https://github.com/labstructbioinf/MDDesign.git
 ```
 Now add the whole directory to PATH.
 
